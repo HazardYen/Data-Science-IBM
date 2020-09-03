@@ -3,7 +3,6 @@
 [![hackmd-github-sync-badge](https://hackmd.io/0dLFQpzLROKJAmKW8ZOJbg/badge)](https://hackmd.io/0dLFQpzLROKJAmKW8ZOJbg)
 
 
-
 ###### tags: `Data Science` `IBM`
 [coursera](https://www.coursera.org/learn/what-is-datascience/home/welcome)
 
@@ -30,31 +29,31 @@
 - Reading: "[Data Science: The Sexiest Job in the 21st Century](https://d3c33hcgiwev3.cloudfront.net/_6d61ac58f5add7fa68ed404a51b2618d_Datascience_Orientation_Defining_Data_Science_Reading.pdf?Expires=1599264000&Signature=XMkBo8UF8DQlJfHsH~ssp2Dg~4KKRD9iEDc9EEVNoB4mQiRJg4S-1uHn41ueZz2ck~rgotBoZjqO4HfKz4CS9dLB4wVHQlIGBQsKIxhgeeh3A47aIvipkK1uvaAlwifxjEadc0MfJywQLqgv0cUa~6lS-7eWZ5pNP6VmiQ8Jfi4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)"
 - Quiz: "Data Science: The Sexiest Job in the 21st Century"
     1. Harvard Business Review called data science the sexiest job in the 21st century.
-    **True.**
-    False.
+        - [ ]     **True.**
+        - [ ]     False.
     2. According to the report by the McKinsey Global Institute, by 2018, it is projected that there will be a shortage of people with deep analytical skills in the United States. What is the size of this shortage?
-    20,000 – 50,000 people
-    3 – 6 million people
-    120,000 people
-    **140,000 – 190,000 people**
-    800,000 – 900,000 people
+        - [ ]     20,000 – 50,000 people
+        - [ ]     3 – 6 million people
+        - [ ]     120,000 people
+        - [ ]     **140,000 – 190,000 people**
+        - [ ]     800,000 – 900,000 people
 
     3. How is Walmart reported to have addressed its analytical needs?
-    **Crowdsourcing**
-    Outsourcing
-    Social media
-    None of the options is correct
-    Code sharing
+        - [ ]     **Crowdsourcing**
+        - [ ]     Outsourcing
+        - [ ]     Social media
+        - [ ]     None of the options is correct
+        - [ ]     Code sharing
     4. The New York Times reported that the average base salary of a data scientist is $85,000 + competitive bonus.
-    **False.**
-    True.
+        - [ ]     **False.**
+        - [ ]     True.
 
     5. According to professor Haider, the three important qualities to possess in order to succeed as a data scientist are:
-    **Good Story Teller (Argumentative).**
-    Proficient in Programming.
-    **Curious.**
-    **Judgemental.**
-    Good at Math and Statistics.
+        - [ ]     **Good Story Teller (Argumentative).**
+        - [ ]     Proficient in Programming.
+        - [ ]     **Curious.**
+        - [ ]     **Judgemental.**
+        - [ ]     Good at Math and Statistics.
 
 - Summary
     - Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
